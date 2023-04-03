@@ -1,5 +1,5 @@
 # 菠萝很甜
-<font color = "ff13ff">秋秋子就要这样做</font>
+<font color = "ff13ff">秋秋子就酱紫做</font>
 ---
 
 
