@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:NiKuliCat?theme=rule35">
+<img align="right" src="https://count.getloli.com/get/@:NiKuliCat?theme=rule39">
 
 ## 菠萝很甜
 秋秋子就酱紫做
