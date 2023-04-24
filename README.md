@@ -18,9 +18,8 @@
 
 
 
-
 ## 活跃度
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiKuliCat&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats-git-master-nikulicat.vercel.app/api?username=NiKuliCat&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiKuliCat&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats-git-master-nikulicat.vercel.app/api/top-langs/?username=NiKuliCat&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
